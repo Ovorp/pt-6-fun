@@ -1,1 +1,1 @@
-# pt-6-fun
+I am so glad you found this project.  This is a place to try new things and to practice different git commands.  DO NOT BE AFRAID OF BREAKING THIS REPO.
